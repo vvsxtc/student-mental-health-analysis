@@ -1,0 +1,12 @@
+Student ID,Age,Sleep Hours,Stress Level,Study Hours,Academic Score
+,22,4,high,6,65
+,20,5,high,5,72
+,23,5,high,5,70
+,19,6,medium,4,78
+,19,7,low,3,85
+,20,7,medium,3,82
+,21,8,low,2,90
+,21,8,low,2,94
+,,,,,
+Average Sleep,6.25,,,,
+Average Academic Score,79.5,,,,
