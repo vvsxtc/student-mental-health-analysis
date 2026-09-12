@@ -38,7 +38,7 @@ This is a small fictional practice dataset containing only 8 students. The resul
 
 ## Dashboard
 
-Tableau Public dashboard: *Link will be added here.*
+Tableau Public dashboard: [View the interactive dashboard](https://public.tableau.com/app/profile/britney.garcia/viz/StudentMentalHealthAcademicPerformance/Dashboard1)
 
 ## Project Status
 
